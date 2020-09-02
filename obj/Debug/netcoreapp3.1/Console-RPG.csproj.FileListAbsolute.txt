@@ -1,0 +1,13 @@
+D:\Programming\C#\CwK-lvl-6\Console-RPG\bin\Debug\netcoreapp3.1\Console-RPG.exe
+D:\Programming\C#\CwK-lvl-6\Console-RPG\bin\Debug\netcoreapp3.1\Console-RPG.deps.json
+D:\Programming\C#\CwK-lvl-6\Console-RPG\bin\Debug\netcoreapp3.1\Console-RPG.runtimeconfig.json
+D:\Programming\C#\CwK-lvl-6\Console-RPG\bin\Debug\netcoreapp3.1\Console-RPG.runtimeconfig.dev.json
+D:\Programming\C#\CwK-lvl-6\Console-RPG\bin\Debug\netcoreapp3.1\Console-RPG.dll
+D:\Programming\C#\CwK-lvl-6\Console-RPG\bin\Debug\netcoreapp3.1\Console-RPG.pdb
+D:\Programming\C#\CwK-lvl-6\Console-RPG\obj\Debug\netcoreapp3.1\Console-RPG.csprojAssemblyReference.cache
+D:\Programming\C#\CwK-lvl-6\Console-RPG\obj\Debug\netcoreapp3.1\Console-RPG.csproj.CoreCompileInputs.cache
+D:\Programming\C#\CwK-lvl-6\Console-RPG\obj\Debug\netcoreapp3.1\Console-RPG.AssemblyInfoInputs.cache
+D:\Programming\C#\CwK-lvl-6\Console-RPG\obj\Debug\netcoreapp3.1\Console-RPG.AssemblyInfo.cs
+D:\Programming\C#\CwK-lvl-6\Console-RPG\obj\Debug\netcoreapp3.1\Console-RPG.dll
+D:\Programming\C#\CwK-lvl-6\Console-RPG\obj\Debug\netcoreapp3.1\Console-RPG.pdb
+D:\Programming\C#\CwK-lvl-6\Console-RPG\obj\Debug\netcoreapp3.1\Console-RPG.genruntimeconfig.cache
